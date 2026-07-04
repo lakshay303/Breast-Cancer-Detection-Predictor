@@ -129,11 +129,11 @@ The web application allows users to:
 
 ### Home Page
 
-> Add a screenshot here
+Web App (images)
 
 ### Prediction Result
 
-> Add a screenshot here
+Result (images)
 
 ---
 
